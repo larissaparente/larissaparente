@@ -22,9 +22,15 @@ Esses são os percentuais das linguagens de programação nos meus repositórios
 Estou sempre em busca de oportunidades desafiadoras e colaborações interessantes para expandir meu conhecimento e melhorar minhas habilidades!
 Fique à vontade para entrar em contato:
 
-* [![LinkedIn](https://www.linkedin.com/in/larissa-parente-61398321a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-* [![E-mail](larissavlparente@gmail.com)
-
+## 🌐 Contacts:
+<div align="center">
+  <a href="https://www.linkedin.com/in/larissa-parente-61398321a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:larissavlparente@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 ## Ferramentas que Utilizo 🛠️
 
 * ![Jenkins](https://img.shields.io/badge/-Jenkins-yellow?logo=jenkins&logoColor=white)
