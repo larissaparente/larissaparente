@@ -14,7 +14,7 @@
 ### <p align="center" style="font-weight: bold;"> My Stack's </p>
 
 ### Cloud & IaC
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,terragrunt,docker,ansible,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ansible,kubernetes)](https://skillicons.dev)
 
 ### S.O's & Shell
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,powershell,bash)](https://skillicons.dev)
