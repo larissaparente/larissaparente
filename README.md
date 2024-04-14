@@ -6,7 +6,14 @@ Olá, sou apaixonada por Cloud e DevOps, com experiência sólida em implementa�
 
 ## Distribuição de Linguagens nos Meus Repositórios 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaparente&layout=compact)](https://github.com/larissaparente)
+<div align="center">
+  <a href="https://github.com/larissaparente"> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/larissaparente">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
 Esses são os percentuais das linguagens de programação nos meus repositórios no GitHub. 
 
