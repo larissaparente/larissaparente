@@ -1,8 +1,15 @@
-Larissa Parente - DevOps Engineer 💻☁️
+<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="325" width="340" style="border-radius: 550px;" align="right" alt="gif">
 
-## Sobre Mim 💁‍♀️
+---
 
-Olá, sou apaixonada por Cloud e DevOps, com experiência sólida em implementação e manutenção de infraestruturas escaláveis e processos de desenvolvimento ágeis. Minha missão é impulsionar a inovação e a eficiência através da automação e da colaboração.
+## Olá, sou a Lari! 👋🏼
+<div>
+ • 💻  Devops Engineer.
+  <br><br>
+
+• 👨‍🎓  Atualmente, sou estudante de Análise em Desenvolvimento de Sistemas na Univerdade São Judas Tadeu.
+<br><br>
+
 
 ## Distribuição de Linguagens nos Meus Repositórios 📊
 
