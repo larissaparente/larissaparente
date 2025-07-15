@@ -40,6 +40,7 @@ Esses são os percentuais das linguagens de programação nos meus repositórios
 
 
 * *Automatização de Ponta a Ponta*: Implantação de libs e multibranchs no Jenkins para deploys.
+* *Conhecimentos* de FinOps.
 * *Containerização e Orquestração*: Experieciência em Docker para criar ambientes escalavéis e consistentes.
 * *Mentalidade de Colaboração*: Comunicativa e engajada com trabalho em equipe e Metodológias Agéis.
 
